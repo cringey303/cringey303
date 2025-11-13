@@ -1,9 +1,16 @@
 ## Hi, I'm Lucas 👋
 
-## Personal Projects
+## Projects
 Here are some of my projects:
 
-- [Portfolio Website]([url](https://github.com/cringey303/cringey303.github.io))
+- [Portfolio Website](https://github.com/cringey303/cringey303.github.io)
+- [TURT Shell](https://github.com/cringey303/turt)
+- [Get Big, Man (HackKU 25 Winner)](https://github.com/sonicboom989/HackKU25-2D)
+
+## School Projects
+Here is some work I did in school:
+
+- [Software Engineering Labs](https://github.com/topics/eecs348)
 <!--
 **cringey303/cringey303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
