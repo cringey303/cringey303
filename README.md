@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, I'm Lucas 👋
 
+## Personal Projects
+Here are some of my projects:
+
+- [Portfolio Website]([url](https://github.com/cringey303/cringey303.github.io))
 <!--
 **cringey303/cringey303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
