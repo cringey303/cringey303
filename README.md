@@ -11,6 +11,7 @@ Here are some of my projects:
 Here is some work I did in school:
 
 - [Software Engineering Labs](https://github.com/topics/eecs348)
+- [Discrete Structures Labs](https://github.com/topics/eecs210)
 <!--
 **cringey303/cringey303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
