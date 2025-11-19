@@ -1,4 +1,4 @@
-## Hi, I'm Lucas 👋
+# Hi, I'm Lucas, a Computer Science and Cybersecurity student @ KU
 
 ## Projects
 Here are some of my projects:
