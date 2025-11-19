@@ -11,6 +11,7 @@ Here are some of my projects:
 Here is some work I did in school:
 
 - [Software Engineering](https://github.com/topics/eecs348)
+  `HTML, CSS, PHP, SQL, C, C++`
 - [Discrete Structures Labs](https://github.com/topics/eecs210)
 - [Python Helper Files](https://github.com/cringey303/pythonHelpers)
   Used in Programming 2 Labs
