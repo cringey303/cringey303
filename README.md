@@ -6,7 +6,6 @@ Here are some of my projects:
 - [Portfolio Website](https://github.com/cringey303/cringey303.github.io)
 - [TURT Shell](https://github.com/cringey303/turt)
 - [Get Big, Man (HackKU 25 Winner)](https://github.com/sonicboom989/HackKU25-2D)
-- [Checklist](https://github.com/cringey303/checklist) (unfinished)
 
 ## School Projects
 Here is some work I did in school:
