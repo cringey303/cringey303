@@ -4,9 +4,13 @@ Hi, I'm Lucas, a Computer Science and Cybersecurity student @ KU
 Here are some of my projects:
 
 - [Portfolio Website](https://github.com/cringey303/cringey303.github.io)
+  `HTML, CSS, JS`
 - [Syllabus2Cal](https://syllabus2cal.vercel.app/)
+  `Next.js, TypeScript, OpenAI API, Vercel AI SDK`
 - [TURT Shell](https://github.com/cringey303/turt)
+  `C, Makefile`
 - [Get Big, Man (HackKU 25 Winner)](https://github.com/sonicboom989/HackKU25-2D)
+  `C#, Unity, FL Studio`
 
 ## School Projects
 Here is some work I did in school:
