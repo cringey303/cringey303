@@ -11,6 +11,8 @@ Here are some of my projects:
   `C, Makefile`
 - [Get Big, Man (HackKU 25 Winner)](https://github.com/sonicboom989/HackKU25-2D)
   `C#, Unity, FL Studio`
+- [Checklist](https://github.com/cringey303/checklist)
+  `Rust`
 
 ## School Projects
 Here is some work I did in school:
