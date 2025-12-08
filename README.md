@@ -4,6 +4,7 @@ Hi, I'm Lucas, a Computer Science and Cybersecurity student @ KU
 Here are some of my projects:
 
 - [Portfolio Website](https://github.com/cringey303/cringey303.github.io)
+- [Syllabus2Cal](https://github.com/cringey303/syllabus2cal)
 - [TURT Shell](https://github.com/cringey303/turt)
 - [Get Big, Man (HackKU 25 Winner)](https://github.com/sonicboom989/HackKU25-2D)
 
