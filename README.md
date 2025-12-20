@@ -13,6 +13,8 @@ Here are some of my projects:
   `C#, Unity, FL Studio`
 - [Checklist](https://github.com/cringey303/checklist)
   `Rust, Serde`
+- [ChipSplit](https://github.com/cringey303/ChipSplit)
+  `TypeScript`
 
 ## School Projects
 Here is some work I did in school:
