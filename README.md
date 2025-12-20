@@ -15,6 +15,8 @@ Here are some of my projects:
   `Rust, Serde`
 - [ChipSplit](https://github.com/cringey303/ChipSplit)
   `TypeScript`
+- [CourseMap](https://github.com/cringey303/CourseMap)
+  `TypeScript, Expo`
 
 ## School Projects
 Here is some work I did in school:
