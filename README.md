@@ -3,20 +3,15 @@ Hi, I'm Lucas, a Computer Science and Cybersecurity student @ KU
 ## Projects
 Here are some of my projects:
 
-- [Portfolio Website](https://github.com/cringey303/cringey303.github.io)
-  `HTML, CSS, JS`
-- [Syllabus2Cal](https://syllabus2cal.vercel.app/)
-  `Next.js, TypeScript, OpenAI API, Vercel AI SDK`
-- [TURT Shell](https://github.com/cringey303/turt)
-  `C, Makefile`
-- [Get Big, Man (HackKU 25 Winner)](https://github.com/sonicboom989/HackKU25-2D)
-  `C#, Unity, FL Studio`
-- [Checklist](https://github.com/cringey303/checklist)
-  `Rust, Serde`
-- [ChipSplit](https://github.com/cringey303/ChipSplit)
-  `TypeScript`
-- [CourseMap](https://github.com/cringey303/CourseMap)
-  `TypeScript, Expo`
+- [Portfolio Website](https://github.com/cringey303/cringey303.github.io) `HTML, CSS, JS`
+- [Syllabus2Cal](https://syllabus2cal.vercel.app/) `Next.js, TypeScript, OpenAI API, Vercel AI SDK`
+- [TURT Shell](https://github.com/cringey303/turt) `C, Makefile`
+- [Get Big, Man (HackKU 25 Winner)](https://github.com/sonicboom989/HackKU25-2D) `C#, Unity, FL Studio`
+- [Checklist](https://github.com/cringey303/checklist) `Rust, Serde`
+- [ChipSplit](https://github.com/cringey303/ChipSplit) `TypeScript`
+- [CourseMap](https://github.com/cringey303/CourseMap) `TypeScript, Expo`
+- [ColorFree](https://github.com/cringey303/colorfree) `Swift`
+  
 
 ## School Projects
 Here is some work I did in school:
