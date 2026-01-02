@@ -7,7 +7,7 @@ Here are some of my projects:
 - [Syllabus2Cal](https://syllabus2cal.vercel.app/) `Next.js, TypeScript, OpenAI API, Vercel AI SDK`
 - [TURT Shell](https://github.com/cringey303/turt) `C, Makefile`
 - [Get Big, Man (HackKU 25 Winner)](https://github.com/sonicboom989/HackKU25-2D) `C#, Unity, FL Studio`
-- [NotesCLI](https://github.com/cringey303/notes) `Rust, Serde`
+- [NotesCLI](https://github.com/cringey303/notes) `Rust, Serde, CLAP`
 - [ChipSplit](https://github.com/cringey303/ChipSplit) `TypeScript`
 - [CourseMap](https://github.com/cringey303/CourseMap) `TypeScript, Expo`
 - [ColorFree](https://github.com/cringey303/colorfree) `Swift`
