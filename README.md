@@ -4,13 +4,13 @@ Hi, I'm Lucas, a Computer Science and Cybersecurity student @ KU
 Here are some of my projects:
 
 - [Portfolio Website](https://github.com/cringey303/cringey303.github.io) `HTML, CSS, JS`
-- [Praxis](https://github.com/cringey303/Praxis) `Rust (Axum), TypeScript (Next.js), Tailwind CSS, Docker (Postgres)`
+- [Praxis](https://github.com/cringey303/Praxis) (WIP)`Rust (Axum), TypeScript (Next.js), Tailwind CSS, Docker (Postgres)`
 - [Syllabus2Cal](https://syllabus2cal.vercel.app/) `Next.js, TypeScript, OpenAI API, Vercel AI SDK`
 - [TURT Shell](https://github.com/cringey303/turt) `C, Makefile`
 - [Get Big, Man (HackKU 25 Winner)](https://github.com/sonicboom989/HackKU25-2D) `C#, Unity, FL Studio`
 - [NotesCLI](https://github.com/cringey303/notes) `Rust, Serde, CLAP`
 - [ChipSplit](https://github.com/cringey303/ChipSplit) `TypeScript`
-- [CourseMap](https://github.com/cringey303/CourseMap) `TypeScript, Expo`
+- [CourseMap](https://github.com/cringey303/CourseMap) (WIP)`TypeScript, Expo`
 - [ColorFree](https://github.com/cringey303/colorfree) `Swift`
   
 
