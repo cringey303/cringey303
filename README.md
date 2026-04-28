@@ -24,6 +24,8 @@ Here is some work I did in school:
   `python`
 - [Python Helper Files](https://github.com/cringey303/pythonHelpers)
   Used in Programming 2 Labs
+- [EECS447 Praxis Final Project](https://github.com/cringey303/EECS447Praxis)
+  Final project for EECS447 Database Systems
 <!--
 **cringey303/cringey303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
