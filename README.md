@@ -2,8 +2,8 @@ Hi, I'm Lucas, a Computer Science and Cybersecurity student @ KU
 
 ## Projects
 Working on: 
-[Praxis](https://github.com/cringey303/Praxis) (WIP)`Rust (Axum), TypeScript (Next.js), Tailwind CSS, Docker (Postgres)`
-joume/chilltime (WIP) `Rust (Axum), SQLite, HTML, Stripe Checkout`
+- [Praxis](https://github.com/cringey303/Praxis) (WIP) `Rust (Axum), TypeScript (Next.js), Tailwind CSS, Docker (Postgres)`
+- joume/chilltime (WIP) `Rust (Axum), SQLite, HTML, Stripe Checkout`
 
 Other projects:
 
