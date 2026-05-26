@@ -1,4 +1,4 @@
-Hi, I'm Lucas, a Computer Science and Cybersecurity student @ KU
+Hi, I'm Lucas, a Computer Science (Cybersecurity & AI threads) student @ KU
 
 ## Projects
 Working on: 
