@@ -1,4 +1,4 @@
-Hi, I'm Lucas, a Computer Science (Cybersecurity & AI threads) student @ KU
+Hi, I'm Lucas, a Computer Science (Cybersecurity & AI threads) student @ Georgia Tech
 
 ## Projects
 Working on: 
