@@ -21,4 +21,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          # plugin_isocalendar_duration: full-year   #uncomment for full year instead of half
+          plugin_isocalendar_duration: full-year   #uncomment for full year instead of half
